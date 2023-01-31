@@ -1,8 +1,8 @@
 @charset "UTF-8";
 body.light-theme, :root {
   /* light theme color */
-  --background: #fff;
-  --background-secondary: #eaeaea;
+  --background: #e6e6e6;
+  --background-secondary: #BCBDBC;
   --header: #fafafa;
   --color: #222;
   --color-secondary: #999;
