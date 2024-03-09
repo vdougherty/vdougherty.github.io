@@ -1,17 +1,166 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vee Dougherty blog</title>
+    <title>Vee Dougherty</title>
     
     
     
     <link>https://vdougherty.github.io/</link>
-    <description>Recent content on Vee Dougherty blog</description>
+    <description>Recent content on Vee Dougherty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jan 2023 13:26:40 -0800</lastBuildDate>
     
 	<atom:link href="https://vdougherty.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>That path thang</title>
+      <link>https://vdougherty.github.io/path/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vdougherty.github.io/path/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://vdougherty.github.io/img/me_willamette_valley.jpeg&#34;/&gt;
+          
+        
+        
+        
+          So here we are recovering from our alcoholism, most of us in the first flush of sobriety are usually shocked at some point by the amount of wreckage...
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>https://vdougherty.github.io/code/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vdougherty.github.io/code/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          I&amp;rsquo;ve had the good fortune to work either directly or via contract for:
+DDB Needham
+Black Dot Group
+WebStreet Securities
+Allstate
+PartnerData
+Pampered Chef
+Office Max/Office Depot
+FTD
+Sears
+I choose to focus on PartnerData in this instance as example of what I can do with out making this page overly long. It should suffice as an illustration of my talents, think of it as a jumping off point to pursue further conversations of how I can help your organization.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Sound</title>
+      <link>https://vdougherty.github.io/sound/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vdougherty.github.io/sound/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Bands #  I’ve been a professional musician since the late 80’s. Below is a brief sampling of music that I wrote either solo or in bands situations. I’ve enjoyed some notoriety, but also have learned that it takes roughly 6 months for your artistry to make it to the cut out bin… oof-da. Along the way I’ve made countless life-long friendships with some of the coolest people you would ever want to meet.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Vision</title>
+      <link>https://vdougherty.github.io/vision/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vdougherty.github.io/vision/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Portfolio #  Welcome to a brief portfolio page. I have worked in various settings from advertising, promotional to corporate communications. From start ups to Fortune 500 companies. I’ve lead teams of developers and designers. I’ve also been just a team member. The selections below demonstrate what I call working “small to large” or integrated promotional marketing. Small - being website graphics, large - being anything larger then standard print sizes.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://vdougherty.github.io/post/hello/</link>
+      <pubDate>Mon, 02 Jan 2023 13:26:40 -0800</pubDate>
+      
+      <guid>https://vdougherty.github.io/post/hello/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://vdougherty.github.io/img/me_willamette_valley.jpeg&#34;/&gt;
+          
+        
+        
+        
+          Welcome to my personal blog. Complete with a small portfolio of this and that. So, use the navigation at the top right and explore away...
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://vdougherty.github.io/about/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vdougherty.github.io/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Well, hello there&amp;hellip; #  I live in the PNW, as a recent transplant from the city of Chicago. I&amp;rsquo;m an artist, a musician, a generalist in all geek/nerd sub-culture, and a daily user of Linux. I&amp;rsquo;m a trained Illustrator (multiple years of drawing naked people in art school, to get my degree) who fell into Web Design/Development. I was lucky, when after my first-semester of Web Design, a major ad agency selected me to work in their bustling Chicago-office.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://vdougherty.github.io/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vdougherty.github.io/archive/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
     
   </channel>
 </rss>

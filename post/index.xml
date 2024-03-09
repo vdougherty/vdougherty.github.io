@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vee Dougherty</title>
+    
+    
+    
+    <link>https://vdougherty.github.io/post/</link>
+    <description>Recent content in Posts on Vee Dougherty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jan 2023 13:26:40 -0800</lastBuildDate>
+    
+	<atom:link href="https://vdougherty.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://vdougherty.github.io/post/hello/</link>
+      <pubDate>Mon, 02 Jan 2023 13:26:40 -0800</pubDate>
+      
+      <guid>https://vdougherty.github.io/post/hello/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://vdougherty.github.io/img/me_willamette_valley.jpeg&#34;/&gt;
+          
+        
+        
+        
+          Welcome to my personal blog. Complete with a small portfolio of this and that. So, use the navigation at the top right and explore away...
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
