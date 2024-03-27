@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+      <title>
+        My lil&#39; Linux box - Part 2 ::
+        Vee Dougherty
+      </title>
+    
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta
+  name="description"
+  content="I still had some more research to do before I flashed my firmware. At this point, all I knew about the Chromebook was that it was small, lightweight and manufactured by HP. I was still uncertain exactly what the specs were or even if after flashing the firmware, would it be worth the effort to install linux on it (due to not knowing the hard drive/SSD size). I just really knew it was possible."
+/>
+<meta
+  name="keywords"
+  content="music, art, design, graphics, web developer, musician"
+/>
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://vdougherty.github.io/post/lillinuxboxpart2/" />
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/style.css" />
+
+<link rel="stylesheet" href="https://vdougherty.github.io/style.css" />
+
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://vdougherty.github.io/img/apple-touch-icon-144-precomposed.png" />
+<link rel="shortcut icon" href="https://vdougherty.github.io/img/favicon.png" />
+
+
+<link href="/fonts/Inter-Italic.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+<link href="/fonts/Inter-Regular.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+<link href="/fonts/Inter-Medium.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+<link href="/fonts/Inter-MediumItalic.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+<link href="/fonts/Inter-Bold.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+<link href="/fonts/Inter-BoldItalic.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="My lil&#39; Linux box - Part 2"/>
+<meta name="twitter:description" content="I still had some more research to do before I flashed my firmware. At this point, all I knew about the Chromebook was that it was small, lightweight and manufactured..."/>
+
+
+
+<meta property="og:title" content="My lil&#39; Linux box - Part 2" />
+<meta property="og:description" content="I still had some more research to do before I flashed my firmware. At this point, all I knew about the Chromebook was that it was small, lightweight and manufactured..." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://vdougherty.github.io/post/lillinuxboxpart2/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2024-03-27T11:16:00-07:00" />
+<meta property="article:modified_time" content="2024-03-27T11:16:00-07:00" /><meta property="og:site_name" content="Vee Dougherty" />
+
+
+
+
+
+
+
+  </head>
+  <body class="dark-theme">
+    <div class="container">
+      <header class="header">
+  <span class="header__inner">
+    <a
+  href="/"
+  class="logo"
+  style="text-decoration: none;"
+>
+  
+    <span class="logo__mark"><svg xmlns="http://www.w3.org/2000/svg" class="greater-icon" viewBox="0 0 44 44">
+  <path fill="none" d="M15 8l14.729 14.382L15 35.367" />
+</svg>
+</span>
+    <span class="logo__text"
+      >Vee Dougherty</span
+    >
+    <span class="logo__cursor">☘️</span>
+  
+</a>
+
+    <span class="header__right">
+      
+        <nav class="menu">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/about">About</a></li>
+        
+      
+        
+          <li><a href="/code">Code</a></li>
+        
+      
+        
+          <li><a href="/sound">Sound</a></li>
+        
+      
+        
+          <li><a href="/vision">Vision</a></li>
+        
+      
+      
+      
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/about">About</a></li>
+      
+    
+      
+        <li><a href="/code">Code</a></li>
+      
+    
+      
+        <li><a href="/sound">Sound</a></li>
+      
+    
+      
+        <li><a href="/vision">Vision</a></li>
+      
+    
+  </ul>
+</nav>
+
+        <span class="menu-trigger">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M0 0h24v24H0z" fill="none" />
+            <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z" />
+          </svg>
+        </span>
+      
+      <span class="theme-toggle">
+        <svg
+  class="theme-toggler"
+  width="24"
+  height="24"
+  viewBox="0 0 48 48"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path
+    d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+  3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+  13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"
+  />
+</svg>
+
+      </span>
+    </span>
+  </span>
+</header>
+
+
+      <div class="content">
+        
+  
+  
+
+  <article class="post">
+    <h1 class="post-title">My lil' Linux box - Part 2</h1>
+    <div class="post-meta">
+      
+        <time class="post-date">
+          2024-03-27
+        </time>
+
+        
+          
+        
+      
+
+      
+
+
+      
+        <span class="post-read-time"
+          >— 7 min read</span
+        >
+      
+    </div>
+
+    
+
+    
+      <figure class="post-cover">
+  
+    <img src="https://vdougherty.github.io/img/blog_lil_linux_desk.png" alt="My lil&#39; linux laptop - Part 2. Going old school with Window Maker on Linux Mint 21.3."/>
+  
+
+  
+    <figcaption class="center">Going old school with Window Maker on Linux Mint 21.3</figcaption>
+  
+</figure>
+
+    
+
+    <div class="post-content">
+      
+      <p>I still had some more research to do before I flashed my firmware. At this point, all I knew about the Chromebook was that it was small, lightweight and manufactured by HP.  I was still uncertain exactly what the specs were or even if after flashing the firmware, would it be worth the effort to install linux on it (due to not knowing the hard drive/SSD size). I just really knew it was possible.</p>
+<p>So back to the interwebs to search for information to determine the model and and hard drive space from within ChromeOS.</p>
+<p>“In ChromeOS open your Chrome browser and enter chrome://system and press enter. On the “About Chrome Page” just press Ctrl+F and search for “model_name”. It will scroll down and show you the model name of the Chromebook.” I now had the model name. Which of course led to more searching of the interwebs. Fairly quickly, I worked out that I had an HP Chromebook 11 G6 EE with an Intel Celeron N3350 processor and Intel HD Graphics 500. It definitely was the “Snappy” model. However, this did not make the Chromebook a powerhouse, but it would suffice. Checking via the Files app in ChromeOS, I was able to piece together that the Chromebook had between the used and unused space, a whopping 32gb to play with.</p>
+<p>Not a lot, but better then the 16gb model.</p>
+<p>Now that I knew I had more space to play with, I could’ve gone with a simple, lightweight distro like PuppyLinux, TinyCore or a few others to conserve hard drive/SSD space. All of them equally good. But I decided to cut the other way, in more of a “for shits and grins, fuck around and find out” I chose a larger Distro. I mean, come on? If wiping your firmware and installing Linux on a Chromebook isn’t the geek epitome of “fuck around and find out” I mean, “What is?”</p>
+<p>My selection criteria for the distro was simple: Stable, with a straight forward install that did not have a track record of breaking easily post install. I had survived a few too many instances of that using Ubuntu. I though that maybe one of the Ubuntu derivatives might work. At one point I thought about even maybe installing a striped down version of Debian. Eventually, I settled on Linux Mint an Ubuntu derivative, mostly because I was already familiar with the package manager (apt) and everything that I read about it indicated that it was:</p>
+<blockquote>
+<ul>
+<li>Rock solid enough to be recommended to Linux newbies and experienced users alike.</li>
+<li>Was well thought out in terms of being a very complete and curated distro with a good selection of open source software as part of the install.</li>
+<li>Has a reputation, that once installed, you will have a stable, complete OS, ready to go.</li>
+</ul>
+</blockquote>
+<p>Distro selected, I proceeded to update the firmware. Once that was completed, I could solely focus on installing Linux. A half hour or so later, I had Linux Mint on my Lil’ laptop. I actually had a geek-gestalt moment. My gawd, it worked! More to the point, it went smoothly.</p>
+<h4 id="modern-problems-require-modern-solutions">
+  Modern problems require modern solutions
+  <a href="#modern-problems-require-modern-solutions" class="h-anchor" aria-hidden="true">#</a>
+</h4>
+<p>Again, with this set up there were still things I had to take into consideration. My hard drive/SSD was tiny to begin with. Installing Mint had reduced the space to a little under half.  With the hard drive/SSD soldered onto the motherboard, and Chromebooks basically being glued together, I wasn’t going to attempt to take it apart. I had a couple of external hard drives, I could simply just use them via the USB ports. But that meant lugging additional peripherals and cables and such. Which kind of defeated the portability of said laptop. I wanted something a little more practical, dare I say it “elegant”. It was then I decided I would simply buy a microSD card and slap that right into the microSD slot. A day or so later I picked up a microSD card with 512gb. The storage space was solved. Well, sort of&hellip;</p>
+<p>I’ll try to explain this as simply as possible. Basically, your Home folder on any computer is where your personal folder resides, with your personal files, your music, your videos, you pictures of Na-Na at G-Ma&rsquo;s b-day. Plus it’s where hidden files and folders holding your personalized settings reside. Overtime your personal folder grows in size. I knew that this would be true in my case and very quickly would overwhelm the space on the internal hard drive/SSD. Another consideration was all OS’s have log files, literally files that log the health of the system. This can also grow and impact space as well.  So, I really wanted to keep as much of the internal hard drive/SSD free, while using the microSD card as storage.</p>
+<p>Luckily, Linux has a solution for that. In short, you basically move your personal folder within the Home folder to the external drive you want it on (in this case the microSD). Think of folders as being the branches to a tree that attach to a root. All you really are doing is telling your system that this branch (the location of the microSD card) now contains your personal folder and should be mounted (attached) to/inside the Home folder on root. So, when you boot the next time, it automagically mounts the microSD inside of the Home folder and assumes this your personal folder. You can learn how to do this <a href="https://www.howtogeek.com/442101/how-to-move-your-linux-home-directory-to-another-hard-drive/">here</a>.</p>
+<p>Once I did the above, I now had plenty of space for personal stuff, leaving the internal hard drive space alone.</p>
+<p>Another consideration was log files for the system. The log files reside in another folder on the root called “var” short for “variable”, in var is a folder called log, in the log folder is the aforementioned log files. Since it is not recommended that you delete your log files as it could cause bad voodoo to your system, the simple solution for me was a script that basically zeroed out all the files to having zero bytes. Thus keeping the log files from taking any space. I knew that if something went wrong, it meant I would be limited in my ability to diagnosis the issue via the log files. But at the end of the day I went with it. Logically, once my personal folder was moved to the microSD, the entire system could go up in smoke for all I cared. All I would have to do is re-install the OS and re-attach the personal folder to the Home folder on root and I’d be set to go. So, the log files while needed for the OS, where not that big of a concern.</p>
+<p>Also, it bears mentioning that with microSD cards, they can burn out. So, back up you personal folder on the microSD card as a precaution. My microSD is still going strong, but your mileage may vary. I back up about once a month.</p>
+<p>The last thing to keep in mind is that the big major updates, not the day to day incremental updates and patches that Linux Mint releases. But, the major version number updates/releases will not be possible from within the updater with a tiny internal hard drive/SSD. They are dependent on the internal hard drive to have a vast amount of space so the updater has room to basically update the system. So, again having your personal folder on a separate drive makes sense. Usually, I just make a new Live install USB with the new version of Linux Mint on it and reboot off it and do a complete re-install, then re-attach the personal folder to Home again. Added bonus, since my personal folder on the microSD has all those hidden files/foldes/settings already within, I do not have to reconfigure my system to my personal likings.</p>
+<p>So for the last year using this setup, has provided me with a solid, great little Linux box to tinker with and get reacquainted with Linux. I&rsquo;ve used it as a daily driver for awhile with no issues, I&rsquo;ve also used it to build the blog you are reading, (the original repo was hosted on it.) All the images and coding was done on it. So, it’s been quite useful. It&rsquo;s pretty much handled anything I&rsquo;ve thrown at it.</p>
+<p>Currently for DE’s I run the default Cinnamon DE included with Linux Mint, plus being a gray beard I also run Window Maker, (yeah, I know … okay, boomer) which I’ve lightly riced to my personal liking.</p>
+<p>After spending the last 10 years dividing my time between MacOS and Windows, this whole process has been a great way to get back into Linux and the Linux community. And, yes, it’s really good to be back hacking away.</p>
+<p>Places to learn more:</p>
+<p><a href="https://mrchromebox.tech">https://mrchromebox.tech</a><br>
+<a href="https://www.reddit.com/r/chrultrabook">https://www.reddit.com/r/chrultrabook</a><br>
+<a href="https://docs.chrultrabook.com/">https://docs.chrultrabook.com/</a></p>
+<p>&ndash; E’nuf said, Love and Rockets</p>
+
+    </div>
+    
+      
+        <div class="pagination">
+          <div class="pagination__title">
+            <span class="pagination__title-h"
+              >Read other posts</span
+            >
+            <hr />
+          </div>
+          <div class="pagination__buttons">
+            
+            
+              <span class="button next">
+                <a href="https://vdougherty.github.io/post/lillinuxbox2/">
+                  <span class="button__text">My lil&#39; Linux box</span>
+                  <span class="button__icon">→</span>
+                </a>
+              </span>
+            
+          </div>
+        </div>
+      
+    
+
+    
+      
+        
+
+      
+    
+  </article>
+
+      </div>
+
+      
+        <footer class="footer">
+  <div class="footer__inner">
+    
+      <a
+  href="/"
+  class="logo"
+  style="text-decoration: none;"
+>
+  
+    <span class="logo__mark"><svg xmlns="http://www.w3.org/2000/svg" class="greater-icon" viewBox="0 0 44 44">
+  <path fill="none" d="M15 8l14.729 14.382L15 35.367" />
+</svg>
+</span>
+    <span class="logo__text"
+      >Vee Dougherty</span
+    >
+    <span class="logo__cursor">☘️</span>
+  
+</a>
+
+      <div class="copyright">
+        <span>© 2024 Copyright ~ V.Dougherty</span>
+        <span> <a rel="me" href="https://musician.social/@Vee" target="_blank" rel="noopener"><img src="/img/mast_icon.png" width="27" height="22"></a></span>
+        <span> <a href="https://www.instagram.com/vince_nt_860" target="_blank" rel="noopener"><img src="/img/insta_icon.png" width="27" height="22"></a></span>
+        <span> <a href="https://www.facebook.com/cre8tif" target="_blank" rel="noopener"><img src="/img/face_icon.png" width="27" height="22"></a></span>
+      </div>
+    
+  </div>
+</footer>
+
+
+
+
+
+<script type="text/javascript" src="/bundle.min.js"></script>
+
+
+
+
+      
+    </div>
+
+    
+  </body>
+</html>

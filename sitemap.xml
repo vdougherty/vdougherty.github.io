@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vdougherty.github.io/post/lillinuxbox2/</loc>
-    <lastmod>2024-03-21T11:52:06-07:00</lastmod>
+    <loc>https://vdougherty.github.io/post/lillinuxboxpart2/</loc>
+    <lastmod>2024-03-27T11:16:00-07:00</lastmod>
   </url><url>
     <loc>https://vdougherty.github.io/post/</loc>
-    <lastmod>2024-03-21T11:52:06-07:00</lastmod>
+    <lastmod>2024-03-27T11:16:00-07:00</lastmod>
   </url><url>
     <loc>https://vdougherty.github.io/</loc>
+    <lastmod>2024-03-27T11:16:00-07:00</lastmod>
+  </url><url>
+    <loc>https://vdougherty.github.io/post/lillinuxbox2/</loc>
     <lastmod>2024-03-21T11:52:06-07:00</lastmod>
   </url><url>
     <loc>https://vdougherty.github.io/post/helloagain/</loc>

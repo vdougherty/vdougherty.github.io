@@ -9,10 +9,29 @@
     <description>Recent content in Posts on Vee Dougherty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Mar 2024 11:52:06 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 11:16:00 -0700</lastBuildDate>
     
 	<atom:link href="https://vdougherty.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My lil&#39; Linux box - Part 2</title>
+      <link>https://vdougherty.github.io/post/lillinuxboxpart2/</link>
+      <pubDate>Wed, 27 Mar 2024 11:16:00 -0700</pubDate>
+      
+      <guid>https://vdougherty.github.io/post/lillinuxboxpart2/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://vdougherty.github.io/img/blog_lil_linux_desk.png&#34;/&gt;
+          
+        
+        
+        
+          I still had some more research to do before I flashed my firmware. At this point, all I knew about the Chromebook was that it was small, lightweight and manufactured...
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>My lil&#39; Linux box</title>
