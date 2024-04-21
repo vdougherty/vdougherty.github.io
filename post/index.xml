@@ -9,10 +9,29 @@
     <description>Recent content in Posts on Vee Dougherty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Apr 2024 12:31:30 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 13:41:49 -0700</lastBuildDate>
     
 	<atom:link href="https://vdougherty.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Intersection of Mental Health and the Developer</title>
+      <link>https://vdougherty.github.io/post/intersection/</link>
+      <pubDate>Sat, 20 Apr 2024 13:41:49 -0700</pubDate>
+      
+      <guid>https://vdougherty.github.io/post/intersection/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://vdougherty.github.io/img/intersection.jpg&#34;/&gt;
+          
+        
+        
+        
+          Recently, within the last few weeks, there was an attempted backdoor into Linux using XZ. You may have heard about it, you may have not. You can ...
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Why this blog?</title>

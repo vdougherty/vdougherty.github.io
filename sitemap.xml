@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://vdougherty.github.io/post/intersection/</loc>
+    <lastmod>2024-04-20T13:41:49-07:00</lastmod>
+  </url><url>
     <loc>https://vdougherty.github.io/post/</loc>
-    <lastmod>2024-04-06T12:31:30-07:00</lastmod>
+    <lastmod>2024-04-20T13:41:49-07:00</lastmod>
   </url><url>
     <loc>https://vdougherty.github.io/</loc>
-    <lastmod>2024-04-06T12:31:30-07:00</lastmod>
+    <lastmod>2024-04-20T13:41:49-07:00</lastmod>
   </url><url>
     <loc>https://vdougherty.github.io/post/whythisblog/</loc>
     <lastmod>2024-04-06T12:31:30-07:00</lastmod>
